@@ -47,4 +47,5 @@ function turnOnPickup() {
    document.getElementById("delBox").disabled=true;
    document.getElementById("pickupBox").disabled=false;
 }
+
    
